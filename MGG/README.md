@@ -10,4 +10,6 @@ systems:
 
 [Download link to latest Anaconda distribution](https://www.anaconda.com/download/)
 
-- [Fourier Series Expansion - Introduction](https://nbviewer.jupyter.org/github/daniel-koehn/Misc_Lectures/blob/master/MGG/Fourier_series_expansion_intro.ipynb)
+- [Fourier coefficient derivation](https://nbviewer.jupyter.org/github/daniel-koehn/Misc_Lectures/blob/master/MGG/Fourier_series_coeff.ipynb)
+
+- [Application of Fourier series expansion](https://nbviewer.jupyter.org/github/daniel-koehn/Misc_Lectures/blob/master/MGG/Fourier_series_expansion_intro.ipynb)
